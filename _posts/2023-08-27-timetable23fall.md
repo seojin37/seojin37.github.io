@@ -1,5 +1,5 @@
 ---
-layout:post 
+layout : post 
 title: "이게 내 시간표야"
 ---
 #두번째 포스트
